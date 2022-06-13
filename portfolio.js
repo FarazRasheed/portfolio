@@ -6,7 +6,7 @@ export const greetings = {
 	description:
 		"I'm passionate Mobile developer having an experience of mobile applications with java, kotlin, Jetpack Compose development on Android Studio. Technically sophisticated Application Developer with solid history of building, integrating, testing, implementing, and supporting android applications for mobile on android with knowledge in an engineering development environment. Proven track record of developing and executing various  successful android applications.",
 	resumeLink:
-		"https://drive.google.com/file/d/1Jj4QvvMMhRZQrxngrvlhmuTLhgcisaAp/view?usp=sharing",
+		"https://docs.google.com/document/d/1ighzEjBce2QAzS35uWv462H5ERyTc1FZU2oEuYcQokY/edit?usp=sharing",
 };
 
 export const openSource = {
@@ -33,7 +33,7 @@ export const skillsSection = {
 			lottieAnimationFile: "/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
 			skills: [
 				emoji(
-					"⚡ Self-driven, result oriented, Critical thinker, Technical problem solver"
+					"⚡ Self-driven, result oriented, Critical thinker, Technical problem solver."
 				),
 				emoji("⚡ extensive experience in the full life cycle of the software design and implementation process including requirements definition, prototyping, and proof of concept, design, interface implementation, testing, maintenance and technical leadership."),
 				emoji(
