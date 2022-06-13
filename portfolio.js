@@ -51,7 +51,7 @@ export const skillsSection = {
 				},
 				{
 					skillName: "JavaScript",
-					fontAwesomeClassname: "logos:android",
+					fontAwesomeClassname: "logos:javascript",
 				},
 				{
 					skillName: "ReactNative",
@@ -67,12 +67,12 @@ export const skillsSection = {
 				},
 				{
 					skillName: "JetPack",
-					fontAwesomeClassname: "vscode-icons:file-type-jetpack",
+					fontAwesomeClassname: "simple-icons:jetpackcompose",
 				},
 
 				{
 					skillName: "Fintech",
-					fontAwesomeClassname: "logos:fintech",
+					fontAwesomeClassname: "arcticons:nexo-wallet",
 				},
 			],
 		},
@@ -85,24 +85,24 @@ export const skillsSection = {
 					"⚡ Hosting and maintaining application on Google Play."
 				),
 				emoji(
-					"⚡ Building CI/CD pipelines for automated testing & deployment using Github Actions"
+					"⚡ Building CI/CD pipelines for automated testing & deployment using Github Actions | Bitrise"
 				),
 			],
 			softwareSkills: [
 				{
-					skillName: "AWS",
-					fontAwesomeClassname: "logos:aws",
+					skillName: "Google PlayStore",
+					fontAwesomeClassname: "ion:logo-google-playstore",
 				},
 				{
-					skillName: "Azure",
-					fontAwesomeClassname: "logos:microsoft-azure",
+					skillName: "Circle CI",
+					fontAwesomeClassname: "lant-design:ci-circle-filled",
 				},
 				{
-					skillName: "Heroku",
-					fontAwesomeClassname: "logos:heroku-icon",
+					skillName: "Bitrise",
+					fontAwesomeClassname: "logos:bitrise",
 				},
 				{
-					skillName: "PostgreSQL",
+					skillName: "TDD",
 					fontAwesomeClassname: "logos:postgresql",
 				},
 				{
@@ -110,67 +110,59 @@ export const skillsSection = {
 					fontAwesomeClassname: "akar-icons:github-fill",
 				},
 				{
-					skillName: "Docker",
-					fontAwesomeClassname: "logos:docker-icon",
+					skillName: "Firebase",
+					fontAwesomeClassname: "logos:firebase",
 				},
 				{
 					skillName: "Github Actions",
 					fontAwesomeClassname: "logos:github-actions",
 				},
 				{
-					skillName: "Cloudinary",
-					fontAwesomeClassname: "logos:cloudinary",
-				},
-				{
-					skillName: "Nginx",
-					fontAwesomeClassname: "logos:nginx",
-				},
-				{
-					skillName: "Sentry",
-					fontAwesomeClassname: "logos:sentry-icon",
-				},
+					skillName: "IoT",
+					fontAwesomeClassname: "eos-icons:iot",
+				}
 			],
 		},
 		{
-			title: "Blockchain",
+			title: "Third Party Platforms",
 			lottieAnimationFile: "/lottie/skills/ethereum.json", // Path of Lottie Animation JSON File
 			skills: [
 				emoji(
-					"⚡ Experience in developing Smart Contract using Solidity & Ethereum"
+					"⚡ Experience in developing web applications using Node Js"
 				),
 				emoji(
-					"⚡ Building Scripts for automated testing & deployment of Smart Contracts using Brownie & Infura"
+					"⚡ Building Scripts for automated testing & deployment of Smart Contracts"
 				),
 				emoji(
-					"⚡ Experience of using Openzeppelin Smart Contract Standards & Chainlink Oracles"
+					"⚡ Responsible for implementing new solutions/feature-sets and maintaining existing applications for Android"
 				),
 				emoji(
-					"⚡ Developing NFT Smart Contracts using ERC-721 Token Standard"
+					"⚡ Accountable for the successful delivery and implementation of complex enterprise-scale mobile projects involving multiple back-end systems, as well as new technologies/innovations"
 				),
 				emoji(
-					"⚡ Building Dapps with React.js & Solidity using Web3.js, Moralis & IPFS"
+					"⚡ Coordinate coding, testing , implementation, integration and documentation of solution. Develop program specifications"
 				),
 			],
 			softwareSkills: [
 				{
-					skillName: "Ethereum",
-					fontAwesomeClassname: "logos:ethereum",
+					skillName: "Google Cloud",
+					fontAwesomeClassname: "akar-icons:google-contained-fill",
 				},
 				{
-					skillName: "Solidity",
-					fontAwesomeClassname: "logos:solidity",
+					skillName: "Firebase",
+					fontAwesomeClassname: "simple-icons:firebase",
 				},
 				{
-					skillName: "Web3js",
-					fontAwesomeClassname: "logos:web3js",
+					skillName: "Mac",
+					fontAwesomeClassname: "iconoir:apple-mac",
 				},
 				{
-					skillName: "Metamask",
-					fontAwesomeClassname: "logos:metamask-icon",
+					skillName: "OOPs",
+					fontAwesomeClassname: "simple-icons:coop",
 				},
 				{
-					skillName: "Ganache",
-					fontAwesomeClassname: "logos:ganache-icon",
+					skillName: "Agile",
+					fontAwesomeClassname: "carbon:fragile",
 				},
 			],
 		},
@@ -179,28 +171,48 @@ export const skillsSection = {
 
 export const SkillBars = [
 	{
-		Stack: "Frontend/Design", //Insert stack or technology you have experience in
-		progressPercentage: "90", //Insert relative proficiency in percentage
+		Stack: "Android/Design", //Insert stack or technology you have experience in
+		progressPercentage: "95", //Insert relative proficiency in percentage
+	},
+	{
+		Stack: "Android", //Insert stack or technology you have experience in
+		progressPercentage: "95", //Insert relative proficiency in percentage
+	},
+	{
+		Stack: "Java", //Insert stack or technology you have experience in
+		progressPercentage: "95", //Insert relative proficiency in percentage
+	},
+	{
+		Stack: "Kotlin", //Insert stack or technology you have experience in
+		progressPercentage: "95", //Insert relative proficiency in percentage
+	},
+	{
+		Stack: "MVVM", //Insert stack or technology you have experience in
+		progressPercentage: "95", //Insert relative proficiency in percentage
+	},
+	{
+		Stack: "JetPack", //Insert stack or technology you have experience in
+		progressPercentage: "95", //Insert relative proficiency in percentage
 	},
 	{
 		Stack: "Backend",
-		progressPercentage: "70",
+		progressPercentage: "30",
 	},
 	{
 		Stack: "Programming",
-		progressPercentage: "60",
+		progressPercentage: "70",
 	},
 ];
 
 export const educationInfo = [
 	{
-		schoolName: "Harvard University",
-		subHeader: "Master of Science in Computer Science",
-		duration: "September 2017 - April 2019",
-		desc: "Participated in the research of XXX and published 3 papers.",
+		schoolName: "University of Engineering & Technology",
+		subHeader: "Bacholer of Science in Computer Science",
+		duration: "January 2011 - December 2014",
+		desc: "Runner-up Pasha ICT awards 2015",
 		descBullets: [
-			"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"Enjoy reading and keeping myself up-to-date with all the technologies in smartphones and computers",
+			"Participated in Softech Lahore and got 2nd runner up position in programming quizzes",
 		],
 	},
 ];
