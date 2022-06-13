@@ -42,40 +42,40 @@ export const skillsSection = {
 			],
 			softwareSkills: [
 				{
-					skillName: "HTML-5",
+					skillName: "Android",
 					fontAwesomeClassname: "vscode-icons:file-type-html",
 				},
 				{
-					skillName: "CSS-3",
+					skillName: "Java",
 					fontAwesomeClassname: "vscode-icons:file-type-css",
 				},
 				{
 					skillName: "JavaScript",
-					fontAwesomeClassname: "logos:javascript",
+					fontAwesomeClassname: "logos:android",
 				},
 				{
-					skillName: "Reactjs",
+					skillName: "ReactNative",
 					fontAwesomeClassname: "vscode-icons:file-type-reactjs",
 				},
 				{
-					skillName: "Nextjs",
+					skillName: "MVVM",
 					fontAwesomeClassname: "vscode-icons:file-type-light-next",
 				},
 				{
-					skillName: "Python",
+					skillName: "Kotlin",
 					fontAwesomeClassname: "logos:python",
 				},
 				{
-					skillName: "Django",
+					skillName: "JetPack",
 					fontAwesomeClassname: "vscode-icons:file-type-django",
 				},
 
 				{
-					skillName: "Redux",
+					skillName: "Fintech",
 					fontAwesomeClassname: "logos:redux",
 				},
 				{
-					skillName: "NPM",
+					skillName: "Team Leader",
 					fontAwesomeClassname: "logos:npm-icon",
 				},
 				{
