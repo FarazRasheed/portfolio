@@ -95,7 +95,7 @@ export const skillsSection = {
 				},
 				{
 					skillName: "Circle CI",
-					fontAwesomeClassname: "lant-design:ci-circle-filled",
+					fontAwesomeClassname: "ant-design:ci-circle-filled",
 				},
 				{
 					skillName: "Bitrise",
@@ -219,71 +219,111 @@ export const educationInfo = [
 
 export const experience = [
 	{
-		role: "API Engineer",
-		company: "Duseca Software",
+		role: "Principal Software Engineer",
+		company: "Digitify",
 		companylogo: "/img/icons/common/dusecaSoftware.jpg",
-		date: "Jan 2022 – Mar 2022",
-		desc: "I worked as API Engineer on a Kale App. Kale is a community platform for the creation of social reviews based on verified transactions. I built Fully Optimized and High Performance RESTful APIs using Django, DjangoRESTFramework, PostgresSQL, JWT Authentication, AWS, Integrated Plaid APIs for Fetching Bank Transactions, Integrated Sentry for monitoring Django Server and deployed the API on Heroku Server.",
+		date: "Apr 2021",
+		desc: "At Digitify, I am working as Senior Android application developer. My role here is to divide the whole project into modules before starting, define the architecture of the whole project and then lead the team to develop discrete modules according to Agile Scrum methodology based on two week sprints.",
 		// descBullets: [
 		// 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
 		// 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
 		// ],
 	},
 	{
-		role: "Full Stack Developer",
-		company: "Bleed-AI",
-		companylogo: "/img/icons/common/bleedAI.jpg",
-		date: "Sept 2021 - Oct 2021",
-		desc: "Worked as django web developer to create a website in which I integrated computer vision AI model (built by the team of BleedAI) to process YouTube URLs and show Real Time processing on Website using Django Channels WebSockets , threading for running multiple instances of AI Model, jQuery for UI rendering and deployed it on Heroku server.",
+		role: "Team Lead",
+		company: "Onebyte",
+		companylogo: "/img/icons/common/dusecaSoftware.jpg",
+		date: "Jan 2015 – Mar 2019",
+		desc: "At Onebyte studios, I am working as Senior Lead Android and React Native application developer. My role here is to divide the whole project into modules before starting, define the architecture of the whole project and then lead the team to develop discrete modules according to Agile Scrum methodology based on two week sprints.",
+		// descBullets: [
+		// 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
+		// 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+		// ],
 	},
 	{
-		role: "Backend Developer",
-		company: "Wapidu",
-		companylogo: "/img/icons/common/wapidu.jpg",
-		date: "Sept 2021",
-		desc: "Worked as a Django Developer to integrate Stripe payment gateway in wapidu.com and Created REST APIs using Django REST Framework to integrate Django Stripe backend to Vue.js Frontend and Deployed it on Azure based Docker container registry.",
+		role: "Sr. Mobile Developer",
+		company: "Field Force",
+		companylogo: "/img/icons/common/bleedAI.jpg",
+		date: "Mar 2019 - DEC 2019",
+		desc: "At Field Force, I am working as Senior Lead Android and React Native application developer. My role here is to divide the whole project into modules before starting, define the architecture of the whole project and then lead the team to develop discrete modules according to Agile Scrum methodology based on two week sprints.",
 	},
+	{
+		role: "Tech Lead",
+		company: "Onebyte",
+		companylogo: "/img/icons/common/dusecaSoftware.jpg",
+		date: "Jan 2020 – FEb 2021",
+		desc: "At Onebyte studios, I am working as Senior Lead Android and React Native application developer. My role here is to divide the whole project into modules before starting, define the architecture of the whole project and then lead the team to develop discrete modules according to Agile Scrum methodology based on two week sprints.",
+		// descBullets: [
+		// 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
+		// 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+		// ],
+	},
+	
 ];
 
 export const projects = [
 	{
-		name: "AtlasMart",
-		desc: "With Atlas Mart, it’s easy to find the products with the best price and ship them straight to your door.",
-		link: "https://atlasmart.netlify.app/",
+		name: "YAP – Your Digital Banking App",
+		desc: "Take total control of your money with spending analytics, virtual cards, money-management tools and your very own Mastercard debit card. Receive access to multi-currency, bill splitting, local & international transfers, QR payments and bill payments. Upgrade your plan, choose between customized card designs and get access to a world of exclusive perks and benefits.",
+		link: "https://play.google.com/store/apps/details?id=com.yap.banking",
 	},
 	{
-		name: "Technota (Forum)",
-		desc: "Get hands-on experience in technical skills with Technota",
-		link: "https://technota.netlify.app/",
+		name: "Xplora",
+		desc: "XPLORA is the perfect introduction to the world of mobile products for kids. You will have all the features your child will need, such as call, location, safe zones and SOS. XPLORA is also compatible with our Goplay platform, the world's first Activity platform.",
+		link: "https://play.google.com/store/apps/details?id=com.xplora.xplorao2o&hl=en&gl=US",
 	},
 	{
-		name: "Shopaza (Ecommerce)",
-		desc: "Now your reach to all your favorite entertainment and luxury items is just one touch apart",
-		link: "https://shopaza.herokuapp.com/",
+		name: "SenPi",
+		desc: "Presenting SenPi App - School learning app for Pakistani students - Learn with engaging video lessons, and concepts visualized with animations. Learning is now easy and fun.",
+		link: "https://play.google.com/store/apps/details?id=com.senpi.magic",
 	},
 	{
-		name: "MMFmelody (Blog)",
-		desc: "Here you will find amazing tips about health, beauty, and modern-day life.",
+		name: "Vourity POS3 (Beta)",
+		desc: "Vourity POS 3 is an ”All-in-One” Self-service Payment and Point of Service Terminal for any kind of unattended sales, payments, access control, resource booking and redemption of digital vouchers. The terminal can be used to open doors and turnstiles, handle payments in vending machines, booking of laundry, meeting rooms, and resources, sales in self-service retail shops with ”self checkout”, electrical vehicle charging and building access control. All features are dynamically enabled and centrally managed from Vourity Cloud.",
 		// github: "https://github.com/1hanzla100",
-		link: "https://mmfmelody.herokuapp.com/",
+		link: "https://vourity.com/en/how-does-it-work/hardware/vourity-pos-3/",
 	},
 	{
-		name: "Developer-Portfolio",
-		desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
-		github: "https://github.com/1hanzla100/developer-portfolio",
-		link: "https://developer-portfolio-1hanzla100.vercel.app/",
+		name: "Eon SafteyNet (Android Healthcare  App)",
+		desc: "Eon addresses Essential Patients via Eon SafetyNet. Essential patients are defined as those where 1) a threat to the patient’s life, 2) permanent dysfunction of an extremity or organ system, 3) risk of metastasis or progression of staging of a disease or condition, or 4) risk that the patient’s condition will rapidly deteriorate if a surgery or procedure is not performed. There is an unprecedented healthcare crisis where Essential Patients care is being deferred up to three-months and service line employees are being reallocated to hospital readiness and operations.",
+		link: "https://play.google.com/store/apps/details?id=com.onebyte.eonsafetynet&hl=es_BO",
+	},
+	{
+		name: "Packages Mall (Android Organization App)",
+		desc: "Mall’s official application which contains all the updates and events regarding the mall. Besides this, application also facilitates its users to get directions from one shop to another. This feature is developed using Bi-directional A* search, Colour detection techniques and Image mapping mechanisms.",
+		link: "https://play.google.com/store/apps/details?id=com.packagesmall.packagesmallapp&hl=en_US",
+	},
+	{
+		name: "GharPar (Android Fashion App)",
+		desc: "GharPar App provides timely, convenient and professional at-home beauty and grooming services to its clients.",
+		link: "https://play.google.com/store/apps/details?id=com.onebyte.gharpar",
+	},
+	{
+		name: "GharPar (Android Fashion App)",
+		desc: "GharPar App provides timely, convenient and professional at-home beauty and grooming services to its clients.",
+		link: "https://play.google.com/store/apps/details?id=com.onebyte.gharpar",
+	},
+	{
+		name: "TagMu",
+		desc: "‘TagMu’ assists financial institutions in livestock financing and insurance. It uses Computer Vision to identify animals and provide end-to-end verification for a fraud free livestock insurance. It assists both livestock owners and financial institutions through its one stop solution.",
+		link: "https://www.tagmu.co/",
+	},
+	{
+		name: "GharPar (Android Fashion App)",
+		desc: "GharPar App provides timely, convenient and professional at-home beauty and grooming services to its clients.",
+		link: "https://play.google.com/store/apps/details?id=com.onebyte.gharpar",
 	},
 ];
 
 export const feedbacks = [
-	{
-		name: "John Smith",
-		feedback:
-			"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
-	},
-	{
-		name: "John Smith",
-		feedback:
-			"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
-	},
+	// {
+	// 	name: "John Smith",
+	// 	feedback:
+	// 		"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
+	// },
+	// {
+	// 	name: "John Smith",
+	// 	feedback:
+	// 		"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
+	// },
 ];
