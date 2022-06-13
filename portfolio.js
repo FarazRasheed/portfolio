@@ -43,7 +43,7 @@ export const skillsSection = {
 			softwareSkills: [
 				{
 					skillName: "Android",
-					fontAwesomeClassname: "vscode-icons:android",
+					fontAwesomeClassname: "flat-color-icons:android-os",
 				},
 				{
 					skillName: "Java",
@@ -82,7 +82,7 @@ export const skillsSection = {
 			skills: [
 				emoji("⚡ Experience of working on cross platforms"),
 				emoji(
-					"⚡ Hosting and maintaining application on Google Playstore"
+					"⚡ Hosting and maintaining application on Google Play."
 				),
 				emoji(
 					"⚡ Building CI/CD pipelines for automated testing & deployment using Github Actions"
@@ -90,16 +90,16 @@ export const skillsSection = {
 			],
 			softwareSkills: [
 				{
-					skillName: "Google Playstore",
-					fontAwesomeClassname: "logos:google",
+					skillName: "AWS",
+					fontAwesomeClassname: "logos:aws",
 				},
 				{
-					skillName: "CI/CD",
-					fontAwesomeClassname: "logos:bitrise",
+					skillName: "Azure",
+					fontAwesomeClassname: "logos:microsoft-azure",
 				},
 				{
-					skillName: "ApCenter",
-					fontAwesomeClassname: "logos:app-center",
+					skillName: "Heroku",
+					fontAwesomeClassname: "logos:heroku-icon",
 				},
 				{
 					skillName: "PostgreSQL",
