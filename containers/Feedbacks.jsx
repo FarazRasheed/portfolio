@@ -8,7 +8,7 @@ const Feedbacks = () => {
 	return (
 		<section className="section section-lg">
 			<Container>
-				<div className="d-flex p-4">
+				{/* <div className="d-flex p-4">
 					<div>
 						<div className="icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-info">
 							<i className="fa fa-star text-info" />
@@ -28,7 +28,7 @@ const Feedbacks = () => {
 							</Col>
 						);
 					})}
-				</Row>
+				</Row> */}
 			</Container>
 		</section>
 	);

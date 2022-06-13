@@ -221,7 +221,7 @@ export const experience = [
 	{
 		role: "Principal Software Engineer",
 		company: "Digitify",
-		companylogo: "/img/icons/common/dusecaSoftware.jpg",
+		companylogo: "/img/icons/common/dg.png",
 		date: "Apr 2021",
 		desc: "At Digitify, I am working as Senior Android application developer. My role here is to divide the whole project into modules before starting, define the architecture of the whole project and then lead the team to develop discrete modules according to Agile Scrum methodology based on two week sprints.",
 		// descBullets: [
@@ -232,7 +232,7 @@ export const experience = [
 	{
 		role: "Team Lead",
 		company: "Onebyte",
-		companylogo: "/img/icons/common/dusecaSoftware.jpg",
+		companylogo: "/img/icons/common/ob.jpeg",
 		date: "Jan 2015 – Mar 2019",
 		desc: "At Onebyte studios, I am working as Senior Lead Android and React Native application developer. My role here is to divide the whole project into modules before starting, define the architecture of the whole project and then lead the team to develop discrete modules according to Agile Scrum methodology based on two week sprints.",
 		// descBullets: [
@@ -243,14 +243,14 @@ export const experience = [
 	{
 		role: "Sr. Mobile Developer",
 		company: "Field Force",
-		companylogo: "/img/icons/common/bleedAI.jpg",
+		companylogo: "/img/icons/common/ff.webp",
 		date: "Mar 2019 - DEC 2019",
 		desc: "At Field Force, I am working as Senior Lead Android and React Native application developer. My role here is to divide the whole project into modules before starting, define the architecture of the whole project and then lead the team to develop discrete modules according to Agile Scrum methodology based on two week sprints.",
 	},
 	{
 		role: "Tech Lead",
 		company: "Onebyte",
-		companylogo: "/img/icons/common/dusecaSoftware.jpg",
+		companylogo: "/img/icons/common/ob.jpeg",
 		date: "Jan 2020 – FEb 2021",
 		desc: "At Onebyte studios, I am working as Senior Lead Android and React Native application developer. My role here is to divide the whole project into modules before starting, define the architecture of the whole project and then lead the team to develop discrete modules according to Agile Scrum methodology based on two week sprints.",
 		// descBullets: [
