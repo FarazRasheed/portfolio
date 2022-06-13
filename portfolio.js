@@ -43,11 +43,11 @@ export const skillsSection = {
 			softwareSkills: [
 				{
 					skillName: "Android",
-					fontAwesomeClassname: "vscode-icons:file-type-html",
+					fontAwesomeClassname: "vscode-icons:android",
 				},
 				{
 					skillName: "Java",
-					fontAwesomeClassname: "vscode-icons:file-type-css",
+					fontAwesomeClassname: "vscode-icons:file-type-java",
 				},
 				{
 					skillName: "JavaScript",
@@ -63,34 +63,26 @@ export const skillsSection = {
 				},
 				{
 					skillName: "Kotlin",
-					fontAwesomeClassname: "logos:python",
+					fontAwesomeClassname: "logos:kotlin",
 				},
 				{
 					skillName: "JetPack",
-					fontAwesomeClassname: "vscode-icons:file-type-django",
+					fontAwesomeClassname: "vscode-icons:file-type-jetpack",
 				},
 
 				{
 					skillName: "Fintech",
-					fontAwesomeClassname: "logos:redux",
-				},
-				{
-					skillName: "Team Leader",
-					fontAwesomeClassname: "logos:npm-icon",
-				},
-				{
-					skillName: "Yarn",
-					fontAwesomeClassname: "logos:yarn",
+					fontAwesomeClassname: "logos:fintech",
 				},
 			],
 		},
 		{
-			title: "Cloud Infra-Architecture",
+			title: "Infra-Architecture",
 			lottieAnimationFile: "/lottie/skills/cloudinfra.json", // Path of Lottie Animation JSON File
 			skills: [
-				emoji("⚡ Experience of working on multiple cloud platforms"),
+				emoji("⚡ Experience of working on cross platforms"),
 				emoji(
-					"⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases"
+					"⚡ Hosting and maintaining application on Google Playstore"
 				),
 				emoji(
 					"⚡ Building CI/CD pipelines for automated testing & deployment using Github Actions"
@@ -98,16 +90,16 @@ export const skillsSection = {
 			],
 			softwareSkills: [
 				{
-					skillName: "AWS",
-					fontAwesomeClassname: "logos:aws",
+					skillName: "Google Playstore",
+					fontAwesomeClassname: "logos:google",
 				},
 				{
-					skillName: "Azure",
-					fontAwesomeClassname: "logos:microsoft-azure",
+					skillName: "CI/CD",
+					fontAwesomeClassname: "logos:bitrise",
 				},
 				{
-					skillName: "Heroku",
-					fontAwesomeClassname: "logos:heroku-icon",
+					skillName: "ApCenter",
+					fontAwesomeClassname: "logos:app-center",
 				},
 				{
 					skillName: "PostgreSQL",
