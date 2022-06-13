@@ -2,9 +2,9 @@ import emoji from "react-easy-emoji";
 
 export const greetings = {
 	name: "Faraz Rasheed",
-	title: "Hi all, I'm Hanzla",
+	title: "Hi all, I'm Faraz",
 	description:
-		"I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
+		"I'm passionate Mobile developer having an experience of mobile applications with java, kotlin, Jetpack Compose development on Android Studio. Technically sophisticated Application Developer with solid history of building, integrating, testing, implementing, and supporting android applications for mobile on android with knowledge in an engineering development environment. Proven track record of developing and executing various  successful android applications.",
 	resumeLink:
 		"https://drive.google.com/file/d/1Jj4QvvMMhRZQrxngrvlhmuTLhgcisaAp/view?usp=sharing",
 };
@@ -16,28 +16,28 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-	facebook: "https://www.facebook.com/1hanzla100",
-	instagram: "https://www.instagram.com/1hanzla100",
-	twitter: "https://twitter.com/1hanzla100",
-	github: "https://github.com/1hanzla100",
-	linkedin: "https://www.linkedin.com/in/1hanzla100/",
+	facebook: "https://www.facebook.com/farazrasheedraza",
+	instagram: "https://www.instagram.com/faraxraxeed/",
+	twitter: "https://twitter.com/FarazRaxeed",
+	github: "https://github.com/FarazRasheed",
+	linkedin: "https://www.linkedin.com/in/faraz-rasheed-7034b4113/",
 };
 
 export const skillsSection = {
 	title: "What I do",
 	subTitle:
-		"CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+		"CRAZY MOBILE DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
 	data: [
 		{
-			title: "Full Stack Development",
+			title: "Mobile Development",
 			lottieAnimationFile: "/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
 			skills: [
 				emoji(
-					"⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js"
+					"⚡ Self-driven, result oriented, Critical thinker, Technical problem solver"
 				),
-				emoji("⚡ Building responsive static websites using Next.js"),
+				emoji("⚡ extensive experience in the full life cycle of the software design and implementation process including requirements definition, prototyping, and proof of concept, design, interface implementation, testing, maintenance and technical leadership."),
 				emoji(
-					"⚡ Building RESTful APIs in Django & Django REST Framework"
+					"⚡ Utilize troubleshooting, teamwork, communication, and project engagement skills across all levels of staff, consumers, and key decision-makers."
 				),
 			],
 			softwareSkills: [
